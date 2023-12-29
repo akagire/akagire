@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi All 👋
+
+I'm Akagire Seal（あかぎれ しぃる） in Sendai Japan🇯🇵.
+
+I do markup HTML, write CSS and code JavaScript.
 
 <!--
 **Akagire/Akagire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### GitHub contributions
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akagire&theme=monokai)
+
+#### GitHub Commit language
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akagire&theme=monokai)
