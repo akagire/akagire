@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 #### GitHub contributions
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akagire&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akagire&theme=monokai)
 
 #### GitHub Commit language
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akagire&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akagire&theme=monokai)
