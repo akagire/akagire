@@ -1,6 +1,6 @@
 ### Hi All 👋
 
-I'm Akagire Seal（あかぎれ しぃる） in Sendai Japan🇯🇵.
+I'm Takuya Eguchi in Sendai Japan🇯🇵.
 
 I do markup HTML, write CSS and code JavaScript.
 
