@@ -1,26 +1,29 @@
-### Hi All 👋
+## 🌕 About Takuya
 
-I'm Takuya Eguchi in Sendai Japan🇯🇵.
+I'm an frontend/backend developer who loves TypeScript and CSS.
 
-I do markup HTML, write CSS and code JavaScript.
+### 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,html,css,nodejs,react,nextjs,materialui,vue,pinia,nuxtjs,sass,vite,webpack,figma,ps,firebase,aws,git,github,githubactions,mongodb,mysql,nestjs,notion,ruby,rails,vscode,apple" />
 
-<!--
-**Akagire/Akagire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 Status
+[![Contributions](https://badgen.org/img/qiita/akagire/contributions?style=plastic)](https://qiita.com/akagire)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagire&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akagire" />
+</p>
 
-#### GitHub contributions
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akagire&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akagire&margin-w=5)](https://github.com/akagire/)
 
-#### GitHub Commit language
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akagire&theme=monokai)
+## 🧑‍🤝‍🧑 Communities
+
+I operate and support the following local developers communities.
+
+[![Sendai Frontend user group](https://media.connpass.com/thumbs/3f/6d/3f6ddf51673f44f0e20518925eb4f281.png)](https://sfeug.connpass.com/)
+[![Sendai.rb](https://media.connpass.com/thumbs/84/5e/845e654dc14d6d2664b066ca85531e45.png)](https://sendairb.connpass.com/)
+
+## 📸 Hobbies
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/egc_insta/)
+[![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/seal2502)
