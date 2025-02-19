@@ -18,10 +18,16 @@ I'm an frontend/backend developer who loves TypeScript and CSS.
 
 ## 🧑‍🤝‍🧑 Communities
 
-I operate and support the following local developers communities.
+I operate and support the following developers communities.
+
+### Local communities
 
 [![Sendai Frontend user group](https://media.connpass.com/thumbs/3f/6d/3f6ddf51673f44f0e20518925eb4f281.png)](https://sfeug.connpass.com/)
 [![Sendai.rb](https://media.connpass.com/thumbs/84/5e/845e654dc14d6d2664b066ca85531e45.png)](https://sendairb.connpass.com/)
+
+### Guild / Alumni communities
+
+[![UX Dig](https://uxdig.connpass.com/)]
 
 ## 📸 Hobbies
 
