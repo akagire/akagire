@@ -27,7 +27,7 @@ I operate and support the following developers communities.
 
 ### Guild / Alumni communities
 
-[![UX Dig](https://uxdig.connpass.com/)]
+[![UX Dig](https://media.connpass.com/thumbs/ad/5c/ad5c18d04890db2fdf8ec53d348da18e.png)](https://uxdig.connpass.com/)
 
 ## 📸 Hobbies
 
