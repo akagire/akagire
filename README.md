@@ -10,11 +10,11 @@ I'm an frontend/backend developer who loves TypeScript and CSS.
 [![Contributions](https://badgen.org/img/qiita/akagire/contributions?style=plastic)](https://qiita.com/akagire)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagire&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akagire" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akagire&layout=compact&show_icons=true&theme=transparent" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akagire&theme=transparent" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akagire&margin-w=5)](https://github.com/akagire/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akagire&theme=onedark)](https://github.com/akagire/)
 
 ## 🧑‍🤝‍🧑 Communities
 
