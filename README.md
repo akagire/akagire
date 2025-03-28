@@ -18,7 +18,7 @@ I'm an frontend/backend developer who loves TypeScript and CSS.
 
 ## 🧑‍🤝‍🧑 Communities
 
-I operate and support the following developers communities.
+I operate and support the following developer communities.
 
 ### Local communities
 
