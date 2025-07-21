@@ -1,6 +1,6 @@
 ## 🌕 About Takuya
 
-I'm an frontend/backend developer who loves TypeScript and CSS.
+I'm a frontend/backend developer who loves TypeScript, CSS and Vibe coding!
 
 ### 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ts,js,html,css,nodejs,react,nextjs,materialui,vue,pinia,nuxtjs,sass,vite,webpack,figma,ps,firebase,aws,git,github,githubactions,mongodb,mysql,nestjs,notion,ruby,rails,vscode,apple" />
